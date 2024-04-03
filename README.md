@@ -1,8 +1,7 @@
-# React + Vite
+here I gain lot of knoweldge from the CRUD operations 
+and I learnt:
+how to create a data, delete a data, update data
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+and also I learn about HTTP requests and it's method like PUSH, PUT, DELETE,GET
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+to store datas in JSON format
