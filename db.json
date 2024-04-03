@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "id": "7f95",
+      "name": "Divya",
+      "age": "24",
+      "mail": "divya45@gmail.com",
+      "ph": "889384834"
+    },
+    {
+      "id": "6695",
+      "name": "divi",
+      "age": "21",
+      "mail": "divi21@gmail.com",
+      "ph": "9839039039"
+    },
+    {
+      "id": "507a",
+      "name": "viji",
+      "age": "20",
+      "mail": "viji45@gmail.com",
+      "ph": "789034082"
+    },
+    {
+      "id": "2f2c",
+      "name": "akash",
+      "age": "20",
+      "mail": "akash42@gmail.com",
+      "ph": "934343534"
+    },
+    {
+      "id": "c082",
+      "name": "arun",
+      "age": "23",
+      "mail": "aruntryzon34@gmail.com",
+      "ph": "9090934242"
+    },
+    {
+      "id": "8c02",
+      "name": " sivam",
+      "age": "23",
+      "mail": "sivam23@gmail.com",
+      "ph": "8938938493"
+    },
+    {
+      "id": "a8c8",
+      "name": "vikram",
+      "age": "21",
+      "mail": "vikram21@gmail.com",
+      "ph": "8943894215"
+    },
+    {
+      "id": "0bb8",
+      "name": "vijiya",
+      "age": "25",
+      "mail": "vijiya@gmail.com",
+      "ph": "7887728724"
+    }
+  ]
+}
